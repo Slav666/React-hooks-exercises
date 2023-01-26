@@ -56,7 +56,7 @@ https://micku7zu.github.io/vanilla-tilt.js/index.html
 }
 
 .square {
-  background: #fff;
+  background: yellow;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
@@ -72,7 +72,7 @@ https://micku7zu.github.io/vanilla-tilt.js/index.html
 
 .square:focus {
   outline: none;
-  background: #ddd;
+  background: red;
 }
 
 .game {
